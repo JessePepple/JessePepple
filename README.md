@@ -1,16 +1,17 @@
-## Hi there 👋
+# About
+Data Scientist, 3+ years in Software Engineering, experienced in web, and desktop development, and all areas of the Software Development Life Cycle.
 
-<!--
-**JessePepple/JessePepple** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Quick highlights
+- Extensive experience in PHP, SQL, and Javascript.
+- Experienced in product design and development
 
-Here are some ideas to get you started:
+### Technology Stacks
+- Languages: PHP, JavaScript, SQL
+- DBMS: MySQL, PostgreSQL, MongoDB.
+- Infrastructure: Docker, Jenkins, CI/CD.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![Jesse's GitHub stats](https://github-readme-stats.vercel.app/api?username=JessePepple)](https://github.com/anuraghazra/github-readme-stats)
+
+
+### Contact
+- jessepepple36@gmail.com
