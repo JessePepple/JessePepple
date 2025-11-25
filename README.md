@@ -1,14 +1,11 @@
 # About
-Data Scientist, 3+ years in Software Engineering, experienced in web, and desktop development, and all areas of the Software Development Life Cycle.
+Data Engineer passionate about transforming raw data into meaningful insights. Experienced in designing and optimizing end-to-end data pipelines on Azure and Databricks, leveraging Medallion Architecture, Delta Live Tables, and strong data governance practices. Skilled in Python (PySpark), SQL, Azure Data Factory, ADLS, Synapse Analytics, and CI/CD workflows to deliver reliable, analytics-ready datasets for business intelligence.
+ .
 
 ### Quick highlights
-- Extensive experience in PHP, SQL, and Javascript.
-- Experienced in product design and development
-
-### Technology Stacks
-- Languages: PHP, JavaScript, SQL
-- DBMS: MySQL, PostgreSQL, MongoDB.
-- Infrastructure: Docker, Jenkins, CI/CD.
+- Data Engineering: ETL, Data Modelling, Star Schema, Medallion Architecture, Batch & Streaming
+- Tools & Platforms: Azure Data Factory, Azure Data Lake Storage (ADLS Gen2), Azure SQL Database, Synapse Analytics, Databricks, Delta Lake, Delta Live Tables
+- Programming & Scripting: Python (PySpark), SQL, Swift/SwiftUI, Javascrip
 
 [![GitHub Stats](https://gh-readme-profile.vercel.app/api?username=JessePepple)](https://github.com/FajarKim/github-readme-profile)
 
