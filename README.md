@@ -5,9 +5,7 @@ Data Engineer passionate about transforming raw data into meaningful insights. E
 ### Quick highlights
 - Data Engineering: ETL, Data Modelling, Star Schema, Medallion Architecture, Batch & Streaming
 - Tools & Platforms: Azure Data Factory, Azure Data Lake Storage (ADLS Gen2), Azure SQL Database, Synapse Analytics, Databricks, Delta Lake, Delta Live Tables
-- Programming & Scripting: Python (PySpark), SQL, Swift/SwiftUI, Javascrip
-
-[![GitHub Stats](https://gh-readme-profile.vercel.app/api?username=JessePepple)](https://github.com/FajarKim/github-readme-profile)
+- Programming & Scripting: Python (PySpark), SQL, Swift/SwiftUI, Javascript
 
 
 ### Contact
