@@ -10,7 +10,7 @@ Data Scientist, 3+ years in Software Engineering, experienced in web, and deskto
 - DBMS: MySQL, PostgreSQL, MongoDB.
 - Infrastructure: Docker, Jenkins, CI/CD.
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jessepepple&size_weight=0.5&count_weight=0.5)
+[![GitHub Stats](https://gh-readme-profile.vercel.app/api?username=JessePepple)](https://github.com/FajarKim/github-readme-profile)
 
 
 ### Contact
